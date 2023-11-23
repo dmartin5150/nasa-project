@@ -9,7 +9,7 @@
     "start": "node src/server.js",
     "test": "jest  --detectOpenHandles",
     "test-watch": "jest --watch",
-    "cluster": "pm2 start src/server.js -i max" 
+    "cluster": "pm2 start src/server.js -i max"
   },
   "keywords": [],
   "author": "",
@@ -25,8 +25,7 @@
     "express": "^4.18.2",
     "mongoose": "^8.0.1",
     "morgan": "^1.10.0",
-    "nasa-project": "file:..",
-    "pm2": "^5.3.0"
+    "pm2": "^2.10.4"
   },
   "devDependencies": {
     "jest": "^29.7.0",
