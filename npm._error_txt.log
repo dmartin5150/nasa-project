@@ -1,0 +1,16 @@
+
+> nasa-project@1.0.0 install-server
+> npm install --prefix server
+
+
+changed 1 package, and audited 634 packages in 1s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+6 vulnerabilities (3 high, 3 critical)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
